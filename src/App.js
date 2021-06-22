@@ -15,7 +15,7 @@ export default function App() {
       </main>
       <footer className="App-footer">
         <small> 
-        Coded by Fernanda Schmitt
+        Coded by <a href="https://www.linkedin.com/in/fernanda-schmitt-b4a3b733/" >Fernanda Schmitt </a>
         </small>
       </footer>
       </div>
