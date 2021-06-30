@@ -15,7 +15,7 @@ export default function App() {
       </main>
       <footer className="App-footer">
         <small> 
-        Coded by <a href="https://www.linkedin.com/in/fernanda-schmitt-b4a3b733/" >Fernanda Schmitt </a>
+        This project was coded by <a href="https://www.linkedin.com/in/fernanda-schmitt-b4a3b733/" >Fernanda Schmitt </a> and is <a href="https://github.com/fezita/dictionary-project">open-sourced on Github</a> and hosted on <a href="https://www.netlify.com/">Netlify.</a>
         </small>
       </footer>
       </div>
